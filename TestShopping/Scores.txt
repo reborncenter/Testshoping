@@ -1,0 +1,7 @@
+01  center  50  
+02  center  50  
+03  center  50  
+04  center  50  
+05  center  50  
+06  center  50  
+07  center  50  
